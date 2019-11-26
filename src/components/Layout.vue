@@ -1,12 +1,8 @@
 <template>
   <div>
       <div>
-        <nav>
-            <ul>
-                <li>
-                    <router-link to="Cars">Cars</router-link>
-                </li>
-            </ul>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <router-link to="Cars">Cars</router-link>
         </nav>
       </div>
   </div>
